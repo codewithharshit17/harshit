@@ -1,4 +1,4 @@
 # harshit
 This is my First Git Repository.
 <br>
-Author - Harshit Jaiswar
+Author - Harshit Mangru Jaiswar
